@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "225990621752",
+    "project_id": "vc-transcribe",
+    "storage_bucket": "vc-transcribe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225990621752:android:5246e6897124057d3104cd",
+        "android_client_info": {
+          "package_name": "com.vctranscribe.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225990621752-b5i7bjd43m3cmjdtmjng6dj3tdrkh5e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABS1T8vDcp5BqSviyf_oAjeTBL65_orxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225990621752-b5i7bjd43m3cmjdtmjng6dj3tdrkh5e4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225990621752-qfdl5ua3peu9vo876k9gmeg6lebvabjl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.vctranscribe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
