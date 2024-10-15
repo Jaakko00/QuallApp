@@ -5,7 +5,9 @@
 <br>
 
 ## Description
-Built as a thesis project for my studies in Tampere University of Applied Sciences. Thesis can be read soon!
+Built as a thesis project for my studies in Tampere University of Applied Sciences. <br/>
+Thesis can be read here: <br/>
+https://urn.fi/URN:NBN:fi:amk-2023120634810
 
 
 ## Screenshots
